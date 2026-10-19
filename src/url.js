@@ -1,1 +1,0 @@
-export const baseUrl = process.env.REACT_APP_BACKEND_URL || "http://travelmemory-backend-alb-1480453010.ap-south-1.elb.amazonaws.com";
