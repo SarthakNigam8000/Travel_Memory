@@ -6,6 +6,8 @@ This comprehensive technical guide outlines the complete end-to-end lifecycle de
 
 **Source Code Repository:** [SarthakNigam8000/Travel_Memory](https://github.com/SarthakNigam8000/Travel_Memory)
 
+**Documentation link:** https://medium.com/@sarthaknigamm/building-deploying-high-availability-mern-applications-on-aws-from-ec2-mongodb-atlas-to-dual-9ae7dc40b5aa
+
 ---
 
 ## End-to-End System Architecture
